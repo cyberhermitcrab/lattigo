@@ -42,6 +42,8 @@ The library exposes the following packages:
 - `lattigo/examples`: Executable Go programs that demonstrate the use of the Lattigo library. Each
                       subpackage includes test files that further demonstrate the use of Lattigo
                       primitives.
+		      
+- `lattigo/examples/dckks`: The folder contains Go programs of single-party homomorphic encryption and multi-party homomorphic encryption for scenarios of different trust boundaries.
 
 - `lattigo/utils`: Supporting structures and functions.
 
